@@ -1,0 +1,31 @@
+#Header {
+  background-color: antiquewhite;
+  height: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 60rem;
+}
+#Header .container {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 50rem;
+}
+#Header #Logo {
+  background-color: antiquewhite;
+  height: 3rem;
+  width: 20%;
+  min-width: 15rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#Header #Logo h1 {
+  height: 2rem;
+  text-align: center;
+  font-size: 2rem;
+}
+
+/*# sourceMappingURL=header.css.map */

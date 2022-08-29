@@ -1,0 +1,20 @@
+#NavBar {
+  background-color: antiquewhite;
+  height: 3rem;
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: 15rem;
+}
+#NavBar a {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  color: black;
+  text-decoration: none;
+  width: fit-content;
+  font-size: 1rem;
+}
+
+/*# sourceMappingURL=navBar.css.map */
